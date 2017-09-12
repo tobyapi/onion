@@ -1,6 +1,6 @@
 # onion
 
-Onion for (Raze)[https://github.com/samueleaton/raze].
+Onion for [Raze](https://github.com/samueleaton/raze).
 
 ## Installation
 
